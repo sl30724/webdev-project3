@@ -6,7 +6,7 @@
 ### To-do List
 - [x] Prototype
 - [x] Quil: Create back card components (images)
-- [ ] Quil: Create front card components (blank)
-- [ ] Sandy: Style card components (transition, shadow, colors)
-- [ ] Sandy: Create flip animations (check if cards match, if so stay flipped, otherwise flip back)
+- [x] Quil: Create front card components (blank)
+- [x] Sandy: Style card components (transition, shadow, colors)
+- [x] Sandy: Create flip animations (check if cards match, if so stay flipped, otherwise flip back)
 - [x] Quil: Create restart button and function (randomly position the cards at start and when the button is pressed)
